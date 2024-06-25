@@ -1,3 +1,5 @@
+## Archive of the important files from Computer Vision Course
+
 ## Preparing for install
 To get setup, we first need to transfer the project onto the HPC and request GPU resources for the installation and compilation of MMYOLO and required packages.
 
